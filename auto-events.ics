@@ -156,6 +156,16 @@ LOCATION:NEC Birmingham\, Birmingham\, Vereinigtes Königreich
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:20270612-meettheringdasautofestivalunbe@auto-events
+DTSTAMP:20261120T160000Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:🚗 Meet the Ring – Das Auto Festival (unbestätigt)
+LOCATION:Hockenheimring\, Hockenheim\, Deutschland
+DESCRIPTION:Car-Festival mit Drift-Challenge\, Show-Area und 1/8-Meile. Termin aus einer Ticketquelle
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:20270701-lemansclassicheritage@auto-events
 DTSTAMP:20261120T160000Z
 DTSTART;VALUE=DATE:20270701
