@@ -185,6 +185,26 @@ LOCATION:Le Mans\, Frankreich
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:20270611-adacnürburgringclassic@auto-events
+DTSTAMP:20261120T160000Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270614
+SUMMARY:🚗 ADAC Nürburgring Classic
+LOCATION:Nürburgring\, Nürburg\, Deutschland
+DESCRIPTION:Historisches Motorsport-Festival\, 100 Jahre ADAC Eifelrennen
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20270917-adac1000kmrennennürburgringunb@auto-events
+DTSTAMP:20261120T160000Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270919
+SUMMARY:🚗 ADAC 1000 km Rennen Nürburgring (unbestätigt)
+LOCATION:Nürburgring\, Nürburg\, Deutschland
+DESCRIPTION:Historischer Langstreckenklassiker; Veranstalterseite nennt 17.-18.09.\, Serienplan vorläufig 10.-12.09.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:20270815-pebblebeachconcoursdelegance@auto-events
 DTSTAMP:20261120T160000Z
 DTSTART;VALUE=DATE:20270815
